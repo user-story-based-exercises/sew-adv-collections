@@ -5,7 +5,8 @@ SEW | CORE | Collections
 
 ### Acceptance Criteria
 - A list of genres is stored in the database.
-- The list of genres can be added in the frontend, via an admin route.
+- The list of genres is displayed on the client via a dedicated route.
+- A new genre can be added via the frontend.
 - A specific genre can be deleted from the list.
 
 ## User Story 2
