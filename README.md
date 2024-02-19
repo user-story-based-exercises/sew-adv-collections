@@ -16,5 +16,5 @@ SEW | CORE | Collections
 *As a user I want to be able to filter for genres, so that can listen to specific songs.*
 
 ### Acceptance Criteria
-- Extend the search functionality to inlcude the search for certain genres. 
+- Extend the search functionality to include the search for certain genres. 
 
